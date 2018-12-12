@@ -1,2 +1,2 @@
 # CodesPriifer
-algorithm for find codes priifers 
+algorithm for find codes priifer
