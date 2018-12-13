@@ -13,7 +13,7 @@ def get_new_tree(node, tree, length):
     return tree, i
 
 
-def counting_the_tree_of_each_node(arr):
+def counting_edges_of_each_node(arr):
     count = Counter(arr)
     return count
 
